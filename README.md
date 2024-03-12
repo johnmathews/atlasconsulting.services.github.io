@@ -1,2 +1,2 @@
 # johnmathews.github.io
-Webiste for Atlas Consulting International
+Website for Atlas Consulting International
